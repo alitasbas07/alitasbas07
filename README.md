@@ -18,7 +18,7 @@
 
 Burası kurumsal bir vitrinden çok; merak edip kurcaladığım, bazen bozup sonra düzelttiğim keyifli projelerin toplandığı yer.
 
-## Teknoloji çekmecesi
+## Kullandığım Teknolojiler
 
 | Web | Uygulama & Donanım | Veri & Araçlar |
 |---|---|---|
