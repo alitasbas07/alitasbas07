@@ -4,13 +4,11 @@
        alt="Ali Taşbaş çalışma alanı">
 </p>
 
-<h1 align="center">Ali Taşbaş</h1>
 
-<h3 align="center">Claude + Codex = Dev Team</h3>
 
-<p align="center">
-  Ben de arada kod yazıp merge conflictleri çözüyorum.
-</p>
+
+
+
 
 <p align="center">
   <a href="mailto:alitasbas2907@gmail.com">E-posta</a>
