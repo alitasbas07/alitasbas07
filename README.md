@@ -22,8 +22,6 @@
 
 Burası kurumsal bir vitrinden çok; merak edip kurcaladığım, bazen bozup sonra düzelttiğim keyifli projelerin toplandığı yer.
 
-**Full Stack’e doğru emin adımlarla, bazen de hata mesajlarıyla ilerliyorum.**
-
 ## Teknoloji çekmecesi
 
 | Web | Uygulama & Donanım | Veri & Araçlar |
